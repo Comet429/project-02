@@ -34,6 +34,10 @@ body {
   aspect-ratio: 1/1;
 }
 
+.instagram-embeds {
+  margin: 30px 0;
+}
+
 .img-responsive {
   width: 100%;
   display: block;
@@ -78,6 +82,10 @@ section {
 
 section.secondary {
   background: #fff5f5;
+}
+
+section.tertiary {
+  background: white;
 }
 
 header {
